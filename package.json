@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Greg Pendleton",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Greg Pendleton",
 	"scripts": {
 		"start": "node server.js"
 	},
